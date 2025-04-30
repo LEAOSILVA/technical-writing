@@ -1,0 +1,28 @@
+# My Project Title
+
+Welcome to my project! This is a simple example of Markdown formatting.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+This project is designed to demonstrate basic Markdown syntax.
+
+## Features
+
+- Easy to read
+- Easy to write
+- Works anywhere Markdown is supported
+
+## Installation
+
+```bash
+git clone https://github.com/username/my-project.git
+cd my-project
+npm install
