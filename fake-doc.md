@@ -10,7 +10,6 @@ Now I am creating more fake doc in order to practice.
 | Karen  | Analyst
 |===
 
-
 == This content was made for the testing branch.
 
 Let's *see it*.
